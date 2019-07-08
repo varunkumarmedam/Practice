@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Likhitha\Practice\PrintOddLetters\PrintOddLetters\bin\Debug\PrintOddLetters.exe.config
+C:\Users\admin\Documents\Likhitha\Practice\PrintOddLetters\PrintOddLetters\bin\Debug\PrintOddLetters.exe
+C:\Users\admin\Documents\Likhitha\Practice\PrintOddLetters\PrintOddLetters\bin\Debug\PrintOddLetters.pdb
+C:\Users\admin\Documents\Likhitha\Practice\PrintOddLetters\PrintOddLetters\obj\Debug\PrintOddLetters.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Likhitha\Practice\PrintOddLetters\PrintOddLetters\obj\Debug\PrintOddLetters.exe
+C:\Users\admin\Documents\Likhitha\Practice\PrintOddLetters\PrintOddLetters\obj\Debug\PrintOddLetters.pdb
